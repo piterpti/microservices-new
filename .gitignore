@@ -36,6 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/out
 
-
-/.idea/sonarlint
+/.idea/sonarlint/*
